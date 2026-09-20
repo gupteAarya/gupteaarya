@@ -5,6 +5,8 @@ I'm a developer, tinkerer, and maker who just loves technology and machines! I l
 
 My projects span apps, IoT builds, and web tools, each one built to fix something real. I've been coding for 8+ years, and the constant across all of it has been: find the problem, learn whatever is needed to fix it, ship the fix.
 
+I love building & exploring new systems to solve all sorts of problems in the real world. What I really enjoy about this is the process behind it, the system on which the solution visible to the users stands. All of the intricate components of the system and the ideas behind them.
+
 Im enthusiastic about 3-D printing, training AI/ML models and robotics.
 
 - 🔭 Currently working on: **[Warden](https://github.com/gupteAarya/warden-public)** — morning productivity booster
