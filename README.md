@@ -1,14 +1,14 @@
 ## Hello, World! 👋
 
 ### About Me
-I'm a developer, tinkerer, and maker — I learn new tools because the problem in front of me demands them, not the other way around.
+I'm a developer, tinkerer, and maker who just loves technology and machines! I love to learn new tools whenever a new problem I find can be solved by one. 
 
-My projects span apps, IoT builds, and web tools, each one built to fix something real. I've been coding for 8+ years, and the constant across all of it has been: find the problem, learn whatever it takes, ship the fix.
+My projects span apps, IoT builds, and web tools, each one built to fix something real. I've been coding for 8+ years, and the constant across all of it has been: find the problem, learn whatever is needed to fix it, ship the fix.
 
-Im enthusiastic about 3-D printing, training AI/ML models and robotics
+Im enthusiastic about 3-D printing, training AI/ML models and robotics.
 
 - 🔭 Currently working on: **[Warden](https://github.com/gupteAarya/warden-public)** — morning productivity booster
-- 🌱 Currently learning: AI, ML (learning about MCPs, Agentic SaaS, searching about RAG)
+- 🌱 Currently exploring: AI, ML (learning about MCPs, Agentic SaaS, curious about RAG)
 - 📫 Connect: **[LinkedIn](https://www.linkedin.com/in/aarya-g-a66006369/)**
 <!-- 👯 Looking to collaborate on: maker/IoT side projects
 - 🤔 Looking for help with: embedded systems, real-time data pipelines
