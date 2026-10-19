@@ -10,7 +10,7 @@ I love building & exploring new systems to solve all sorts of problems in the re
 Im enthusiastic about 3-D printing, training AI/ML models and robotics.
 
 - 🔭 Currently working on: **[Warden](https://github.com/gupteAarya/warden-public)** — morning productivity booster
-- 🌱 Currently exploring: AI, ML (learning about MCPs, Agentic SaaS, curious about RAG)
+- 🌱 Currently exploring: AI, ML (learning RAG pipelines and how to scale them)
 - 📫 Connect: **[LinkedIn](https://www.linkedin.com/in/aarya-g-a66006369/)**
 <!-- 👯 Looking to collaborate on: maker/IoT side projects
 - 🤔 Looking for help with: embedded systems, real-time data pipelines
